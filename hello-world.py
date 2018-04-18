@@ -10,4 +10,3 @@ if(alter > 100):
 else:
     print ("Du wirst in einem Jahr ", alter+1 ," Jahre alt!", sep="")
 print ("Tschüdele...")
-
